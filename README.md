@@ -24,7 +24,7 @@ She/Her
 
 
 ### ⚡ One line that describes me best? 
-A woman who loves to learn and teach, loves to travel and has very big dreams for herself. 😍😍
+A woman who loves to learn and teach, technology and travel are two great passions of my life. 😍😍
 
 ### 📫 How to reach me?
 - [My Academic Page](https://sthemonica.notion.site/Portfolio-Sthefanie-2775f56f27da43c78eab06337e898ec2)
@@ -38,6 +38,8 @@ A woman who loves to learn and teach, loves to travel and has very big dreams fo
 You can ask me anything, I love to chat and exchange ideas about all things, especially AI related projects
 . I'm looking forward to absorb knowledge🧠, gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
+
+*"Intelligence is the ability to adapt to change" - Stephen Hawking*
 
 ![Snake animation](https://github.com/sthemonica/sthemonica/blob/output/github-contribution-grid-snake.svg)
   

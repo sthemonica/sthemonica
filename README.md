@@ -11,7 +11,7 @@ She/Her
 - Visual computing researcher at PROADI SUS HIAE (Hospital Israelita Albert Einstein)
 - Intern at Alura - Focused on Machine Learning 
 - TDC 2021 Speaker “Does machines really see?”
-- Speaker for the community Women in AI “Does machines really see?”
+- Speaker for the community Women in AI [“Does machines really see?”](https://www.youtube.com/watch?v=7mcRf0FqsLo&t=2&ab_channel=MulheresemIA)
 - Speaker of the Freshman Welcome Week Software Engineering UEPG 2022 “Where to start in Data Science?”
 - Cientific Researcher at UTFPR applied in Neural Networks, Machine Learning and Deep Learning
 - Participant in NASA Hackathon 2020, Space Apps COVID Challenge.

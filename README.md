@@ -2,10 +2,10 @@
 
 <div>
 <a href="https://www.youtube.com/channel/UCtM2Fsn4X0eP-gTrOCv6zww" target="_blank"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567002882/noticon/ctn6kpoyyaawcggjqmfj.png" target="_blank"></a>
-<a href="https://www.instagram.com/sthemonica/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/sthemonica/" target="_blank"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008788/noticon/bqjhb6xvljt9viccy6lh.png" target="_blank"></a>
 <a href="https://www.twitch.tv/sthemonica" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto:premebidas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/sthefanie-monica/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "mailto:smpremebida@gmail.com"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567061475/noticon/tnz5tvci1qdslmibbp14.png" target="_blank"></a>
+<a href="https://www.linkedin.com/in/sthefanie-monica/" target="_blank"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1577931228/noticon/m7laxwx6s1m5thit9ldj.png" target="_blank"></a>   
 <a href="https://sthemonica.notion.site/Portfolio-Sthefanie-2775f56f27da43c78eab06337e898ec2" target="_blank"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg" target="_blank"></a>
 </div>
 

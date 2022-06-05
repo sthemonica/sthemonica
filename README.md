@@ -1,20 +1,26 @@
 # Hello, geeks! 👋
 
-I'm _Sthefanie Monica_. I have strong media and communication professional with a Bachelor of Electrical Engineering from _Federal Technological University of Paraná (UTFPR)_. I am an experienced developer skilled in Python, MATLAB, C++, Javascript, Machine learning, Artificial Inteligence and Python frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of *organizational works* in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.
+I'm _Sthefanie Monica_. I have strong media and communication professional with a Bachelor of Electrical Engineering from _Federal Technological University of Paraná (UTFPR)_. I am an experienced developer skilled in **Python, MATLAB, C++, Javascript, Machine learning, Artificial Inteligence and Python frameworks.** My activities are much beyond my stream of education. ⚡ I was involved in a lot of *organizational works* in college related to clubs, hackathons, projects and workshops.
 
 ### 😄 Pronouns
 She/Her
 
 ### 🌱 What do I do and What have I done? 
 
-- Mentor at OpenMined and Ex-Mentor at AnitaB Organisation for Open Source Hack 2020
-- Recipient of Twitter #DevelopHer India 2020 Scholarship, Bertelsmann Scholarship 2020 and Machine learning Scholarship, Microsoft Azure by Udacity 
-- Mentor and Project Admin at Kharagpur Winter of Code, IIT Kharagpur 2020-21, NJACK Winter of Code, IIT Patna 2020-21, Script Winter of Code 2021, Student Code-in 2020, Build with LetsUpgrade 2020, Contributors's Hack Hackin Codes 2020. 
-- Core Team Member at Developer Student Club, NIT Patna and Hackslash Mozilla Campus Club
-- Alexa Student Influencer 2020 and Chapter Lead at Alexa Dev Hub
-- Current Intern at GeeksForGeeks and Past Full Stack Development Intern at Dataly Services 
-- Course Curator at Uaceit- Ace at your pace and Mission Advocate at Widhya Technologies
-- Global Ambassador at WomenTech Network, Auth0, Girls who Code and GirlUp Foundation
+- Current Instructor in Machine Learning at Alura
+- Visual computing researcher at PROADI SUS HIAE (Hospital Israelita Albert Einstein)
+- Intern at Alura - Focused on Machine Learning 
+- TDC 2021 Speaker “Does machines really see?”
+- Speaker for the community Women in AI “Does machines really see?”
+- Speaker of the Freshman Welcome Week Software Engineering UEPG 2022 “Where to start in Data Science?”
+- Cientific Researcher at UTFPR applied in Neural Networks, Machine Learning and Deep Learning
+- Participant in NASA Hackathon 2020, Space Apps COVID Challenge.
+- Participant in NASA Hackathon 2019, Space Apps Challenge. Second place Winner at NASA Hackathon locally (Ponta Grossa, PR - Brazil).
+- Participant in NASA Hackathon 2018, Space Apps Challenge.
+- President at Academic Center for Electrical Engineering 
+- Substitute member at Counselor of the Graduation and Professional Education Council of UTFPR
+- Performance in UTForce e-Racing
+
 
 
 ### ⚡ One line that describes me best? 
@@ -41,7 +47,6 @@ You can ask me anything, I love to chat and exchange ideas about all things, esp
   <img src="https://profile-counter.glitch.me/sthemonica/count.svg" />
 </p>
 
-<img src="stats.gif" width="90%"><br/><br/>
 
 ***
 

@@ -52,7 +52,7 @@ You can ask me anything, I love to chat and exchange ideas about all things, esp
 
 
 ***
-<---
+<!--
 
 [PT-BR]
 
@@ -95,6 +95,6 @@ Você pode me perguntar qualquer coisa, adoro conversar e trocar ideias sobre to
 
 
 *"Inteligência é a capacidade de se adaptar às mudanças" - Stephen Hawking*
---->
+--!>
 
 

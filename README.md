@@ -38,7 +38,7 @@ You can ask me anything, I love to chat and exchange ideas about all things, esp
 
 <p align="center"> 
   Visitors count<br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+  <img src="https://profile-counter.glitch.me/sthemonica/count.svg" />
 </p>
 
 <img src="stats.gif" width="90%"><br/><br/>

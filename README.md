@@ -1,60 +1,47 @@
-## Hey!! I'm Sthe, happy to have you here ♥ //Oie!! Eu sou a Sthe, feliz de ter você por aqui ♥
+# Hello, geeks! 👋
 
-<div>
-<a href="https://www.youtube.com/channel/UCtM2Fsn4X0eP-gTrOCv6zww" target="_blank"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567002882/noticon/ctn6kpoyyaawcggjqmfj.png" target="_blank" size="small"></a>
-<a href="https://www.instagram.com/sthemonica/" target="_blank"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008788/noticon/bqjhb6xvljt9viccy6lh.png" target="_blank" size="small"></a>
-<a href="https://www.twitch.tv/sthemonica" target="_blank"><img src="https://img.shields.io/badge/-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto:smpremebida@gmail.com"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567061475/noticon/tnz5tvci1qdslmibbp14.png" target="_blank" size="small"></a>
-<a href="https://www.linkedin.com/in/sthefanie-monica/" target="_blank"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1577931228/noticon/m7laxwx6s1m5thit9ldj.png" target="_blank" size="small"></a>   
-<a href="https://sthemonica.notion.site/Portfolio-Sthefanie-2775f56f27da43c78eab06337e898ec2" target="_blank"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg" target="_blank" size="small"></a>
-</div>
+I'm _Sthefanie Monica_. I have strong media and communication professional with a Bachelor of Electrical Engineering from _Federal Technological University of Paraná (UTFPR)_. I am an experienced developer skilled in Python, MATLAB, C++, Javascript, Machine learning, Artificial Inteligence and Python frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of *organizational works* in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.
 
+### 😄 Pronouns
+She/Her
 
-[EN]
-👉 Bachelor in Biomedical Informatics from Ribeirão Preto Medical School - University of São Paulo (USP)
-👉 Master's student in the Interunits Postgraduate Program in Bioengineering from São Carlos School of Engineering, Ribeirão Preto Medical School and São Carlos Institute of Chemistry (EESC-USP, FMRP-USP, IQSC-USP)
-👉 Cofounder and counselor of Data Girls
-👉 Counselor of Neuron - DS and AI
+### 🌱 What do I do and What have I done? 
 
-🧠 Passion for learning and teaching
-👅 Languages: Python, R, SQL
-💻 Areas of interest: data science, machine learning, deep learning, statistics, natural language processing, bioinformatics, data analytics...
-
-💭 "Then remember: look at the stars, not your feet." - Stephen Hawking
+- Mentor at OpenMined and Ex-Mentor at AnitaB Organisation for Open Source Hack 2020
+- Recipient of Twitter #DevelopHer India 2020 Scholarship, Bertelsmann Scholarship 2020 and Machine learning Scholarship, Microsoft Azure by Udacity 
+- Mentor and Project Admin at Kharagpur Winter of Code, IIT Kharagpur 2020-21, NJACK Winter of Code, IIT Patna 2020-21, Script Winter of Code 2021, Student Code-in 2020, Build with LetsUpgrade 2020, Contributors's Hack Hackin Codes 2020. 
+- Core Team Member at Developer Student Club, NIT Patna and Hackslash Mozilla Campus Club
+- Alexa Student Influencer 2020 and Chapter Lead at Alexa Dev Hub
+- Current Intern at GeeksForGeeks and Past Full Stack Development Intern at Dataly Services 
+- Course Curator at Uaceit- Ace at your pace and Mission Advocate at Widhya Technologies
+- Global Ambassador at WomenTech Network, Auth0, Girls who Code and GirlUp Foundation
 
 
+### ⚡ One line that describes me best? 
+A woman who loves to learn and teach, loves to travel and has very big dreams for herself. 😍😍
 
-[PT]
-👉 Bacharela em Engenharia Elétrica pela Universidade Tecnológica Federal do Paraná - Ponta Grossa (UTFPR-PG)
-👉 Instrutora na Alura na área de Data Science voltada para Machine Learning e  visão computacional 
-👉 Co-fundadora e conselheira do Data Girls
-👉 Conselheira do Neuron - DS and AI
-
-🧠 Paixão por aprender e ensinar
-👅 Linguagens: Python, R, SQL
-💻 Áreas de interesse: data science, machine learning, deep learning, estatística, processamento de linguagem natural, bioinformática, análise de dados...
-
-💭 "Então se lembre: olhe para as estrelas, e não para os seus pés." - Stephen Hawking
+### 📫 How to reach me?
+- [My Academic Page](https://sthemonica.notion.site/Portfolio-Sthefanie-2775f56f27da43c78eab06337e898ec2)
+- [LinkedIn](https://www.linkedin.com/in/sthemonica/)  
+- [Instagram](https://www.instagram.com/sthemonica/)
+- [Twitch](https://www.twitch.tv/sthemonica)
+- [Twitter](https://twitter.com/sthemonica) 
+- [Medium](https://medium.com/@sthemonica)
 
 
-### Ferramentas e tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40"/> 
-
-### Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+You can ask me anything, I love to chat and exchange ideas about all things, especially AI related projects
+. I'm looking forward to absorb knowledge🧠, gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
 
-<div align="center">
-<a href="https://github.com/sthemonica">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sthemonica&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthemonica&layout=compact&langs_count=7&theme=dracula"/>
- </a>
-</div>
-
-  
 ![Snake animation](https://github.com/sthemonica/sthemonica/blob/output/github-contribution-grid-snake.svg)
   
-### Contatos:
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+</p>
+
+<img src="stats.gif" width="90%"><br/><br/>
+
+***
 

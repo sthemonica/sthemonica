@@ -7,7 +7,7 @@ She/Her
 
 ### 🌱 What do I do and What have I done? 
 
-- **Current Instructor in Machine Learning at Alura**
+- **Current Instructor of Machine Learning at Alura**
 - Visual computing researcher at PROADI SUS HIAE (Hospital Israelita Albert Einstein)
 - Intern at Alura - Focused on Machine Learning 
 - TDC 2021 Speaker “Does machines really see?”

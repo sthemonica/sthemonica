@@ -41,9 +41,18 @@ You can ask me anything, I love to chat and exchange ideas about all things, esp
 
 *"Intelligence is the ability to adapt to change" - Stephen Hawking*
 
+![Snake animation](https://github.com/sthemonica/sthemonica/blob/output/github-contribution-grid-snake.svg)
+  
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/sthemonica/count.svg" />
+</p>
+
 
 
 ***
+<---
 
 [PT-BR]
 
@@ -86,11 +95,6 @@ Você pode me perguntar qualquer coisa, adoro conversar e trocar ideias sobre to
 
 
 *"Inteligência é a capacidade de se adaptar às mudanças" - Stephen Hawking*
+--->
 
-![Snake animation](https://github.com/sthemonica/sthemonica/blob/output/github-contribution-grid-snake.svg)
-  
 
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/sthemonica/count.svg" />
-</p>

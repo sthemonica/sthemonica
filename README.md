@@ -24,7 +24,7 @@ She/Her
 
 
 ### ⚡ One line that describes me best? 
-A woman who loves to learn and teach, technology and travel are two great passions of my life. 😍😍
+A woman who loves to learn and teach. Technology and travel are two great passions of my life. 😍😍
 
 ### 📫 How to reach me?
 - [My Academic Page](https://sthemonica.notion.site/Portfolio-Sthefanie-2775f56f27da43c78eab06337e898ec2)
@@ -36,10 +36,56 @@ A woman who loves to learn and teach, technology and travel are two great passio
 
 
 You can ask me anything, I love to chat and exchange ideas about all things, especially AI related projects
-. I'm looking forward to absorb knowledge🧠, gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
+. I'm looking forward to absorb knowledge🧠, gain experience 🏭, collaborate🤝 and build amazing products 🏭 for the world! 🌍
 
 
 *"Intelligence is the ability to adapt to change" - Stephen Hawking*
+
+
+
+***
+
+[PT-BR]
+
+Sou a _Sthefanie Monica_. Tenho uma forte aptidão profissional de mídia e comunicação com Bacharelado em Engenharia Elétrica pela _Universidade Tecnológica Federal do Paraná (UTFPR)_. Sou uma desenvolvedora experiente com habilidades em **Python, MATLAB, C++, Javascript, Machine Learning, Inteligência Artificial e frameworks Python.** Minhas atividades estão muito além do meu fluxo de educação. ⚡ Estive envolvida em muitos *trabalhos organizacionais* na faculdade relacionados a clubes, hackathons, projetos e workshops.
+
+### 😄 Pronomes
+Ela/dela
+
+### 🌱 O que eu faço e o que já fiz?
+
+- **Atualmente Instrutora de Machine Learning na Alura**
+- Pesquisadora de Visão Computacional no PROADI SUS HIAE (Hospital Israelita Albert Einstein)
+- Estagiária na Alura - Focado em Machine Learning 
+- Palestrante TDC 2021 “As máquinas realmente enxergam?”
+- Palestrante na comunidade Mulheres em AI “As máquinas realmente enxergam?”
+- Palestrante da Semana da Acolhida de Calouros Engenharia de Software UEPG 2022 “Como começar em Data Science?”
+- Pesquisadora Científica (IC) na UTFPR aplicado em Redes Neurais, Machine Learning and Deep Learning
+- Participante no NASA Hackathon 2020, Space Apps COVID Challenge.
+- Participante no NASA Hackathon 2019, Space Apps Challenge. Equipe ganhadora do segundo lugar localmente (Ponta Grossa, PR - Brazil).
+- Participante no NASA Hackathon 2018, Space Apps Challenge.
+- Presidente do Centro Acadêmico de Engenharia Elétrica
+- Suplente no cargo de Conselheira do órgão Conselho de Graduação e Educação Profissional da UTFPR (COGEP)
+- Desempenho em UTForce e-Racing 
+
+
+### ⚡ Uma linha que me descreva da melhor forma?
+Uma mulher que ama aprender e ensinar. Tecnologia e viagens são minhas duas maiores paixões da vida. 😍😍
+
+
+### 📫 Onde me encontrar?
+- [Minha Academic Page](https://sthemonica.notion.site/Portfolio-Sthefanie-2775f56f27da43c78eab06337e898ec2)
+- [LinkedIn](https://www.linkedin.com/in/sthemonica/)  
+- [Instagram](https://www.instagram.com/sthemonica/)
+- [Twitch](https://www.twitch.tv/sthemonica)
+- [Twitter](https://twitter.com/sthemonica) 
+- [Medium](https://medium.com/@sthemonica)
+
+
+Você pode me perguntar qualquer coisa, adoro conversar e trocar ideias sobre todas as coisas, especialmente projetos relacionados à IA. Estou ansiosa para absorver conhecimentos 🧠, ganhar experiência 🏭, colaborar🤝 e construir produtos incríveis 🏭 para o mundo! 🌍
+
+
+*"Inteligência é a capacidade de se adaptar às mudanças" - Stephen Hawking*
 
 ![Snake animation](https://github.com/sthemonica/sthemonica/blob/output/github-contribution-grid-snake.svg)
   
@@ -48,7 +94,3 @@ You can ask me anything, I love to chat and exchange ideas about all things, esp
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/sthemonica/count.svg" />
 </p>
-
-
-***
-

@@ -1,4 +1,40 @@
-## Oie!! Eu sou a Sthe, feliz de ter você por aqui ♥
+## Hey!! I'm Sthe, happy to have you here ♥ //Oie!! Eu sou a Sthe, feliz de ter você por aqui ♥
+
+<div>
+<a href="https://www.youtube.com/channel/UCtM2Fsn4X0eP-gTrOCv6zww" target="_blank"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567002882/noticon/ctn6kpoyyaawcggjqmfj.png" target="_blank"></a>
+<a href="https://www.instagram.com/sthemonica/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/sthemonica" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href = "mailto:premebidas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/sthefanie-monica/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+
+[EN]
+👉 Bachelor in Biomedical Informatics from Ribeirão Preto Medical School - University of São Paulo (USP)
+👉 Master's student in the Interunits Postgraduate Program in Bioengineering from São Carlos School of Engineering, Ribeirão Preto Medical School and São Carlos Institute of Chemistry (EESC-USP, FMRP-USP, IQSC-USP)
+👉 Cofounder and counselor of Data Girls
+👉 Counselor of Neuron - DS and AI
+
+🧠 Passion for learning and teaching
+👅 Languages: Python, R, SQL
+💻 Areas of interest: data science, machine learning, deep learning, statistics, natural language processing, bioinformatics, data analytics...
+
+💭 "Then remember: look at the stars, not your feet." - Stephen Hawking
+
+
+
+[PT]
+👉 Bacharela em Engenharia Elétrica pela Universidade Tecnológica Federal do Paraná - Ponta Grossa (UTFPR-PG)
+👉 Instrutora na Alura na área de Data Science voltada para Machine Learning e  visão computacional 
+👉 Co-fundadora e conselheira do Data Girls
+👉 Conselheira do Neuron - DS and AI
+
+🧠 Paixão por aprender e ensinar
+👅 Linguagens: Python, R, SQL
+💻 Áreas de interesse: data science, machine learning, deep learning, estatística, processamento de linguagem natural, bioinformática, análise de dados...
+
+💭 "Então se lembre: olhe para as estrelas, e não para os seus pés." - Stephen Hawking
+
 
 ### Ferramentas e tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
@@ -21,10 +57,3 @@
   
 ### Contatos:
 
-<div>
-<a href="https://www.youtube.com/channel/UCtM2Fsn4X0eP-gTrOCv6zww" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/sthemonica/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/sthemonica" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto:premebidas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/sthefanie-monica/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>

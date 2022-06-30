@@ -1,5 +1,7 @@
 # Hello, geeks! 👋
 
+![alt-text: Cover image containing a drawing of Sthefanie, with short brown hair and a black and white striped shirt on the left of the image, and in the center of the cover is written "Sthemonica" and just below "data science - machine learning - artificial intelligence". Predominantly dark purple background.](https://github.com/sthemonica/sthemonica/blob/main/capa-sthe.jpg?raw=true)
+
 I'm _Sthefanie Monica_. I have strong media and communication professional with a Bachelor of Electrical Engineering from _Federal Technological University of Paraná (UTFPR)_. I am an experienced developer skilled in **Python, MATLAB, C++, Javascript, Machine learning, Artificial Inteligence and Python frameworks.** My activities are much beyond my stream of education. ⚡ I was involved in a lot of *organizational works* in college related to clubs, hackathons, projects and workshops.
 
 ### 😄 Pronouns

@@ -31,7 +31,7 @@ She/Her
 A woman who loves to learn and teach. Technology and travel are two great passions of my life. 😍😍
 
 ### 📫 How to reach me?
-- [My Academic Page](https://sthemonica.notion.site/Portfolio-Sthefanie-2775f56f27da43c78eab06337e898ec2)
+- [My Academic Page](https://premebida.notion.site/Portfolio-Sthefanie-8ad5c469c1674acfb53eb94cacedb2f6)
 - [LinkedIn](https://www.linkedin.com/in/sthemonica/)  
 - [Instagram](https://www.instagram.com/sthemonica/)
 - [YouTube](https://www.youtube.com/channel/UCtM2Fsn4X0eP-gTrOCv6zww)

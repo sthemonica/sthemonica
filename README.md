@@ -9,7 +9,8 @@ She/Her
 
 ### 🌱 What do I do and What have I done? 
 
-- **Current Anti Fraud Specialist at Santander**
+- **Current Senior Data Scientist at Heineken**
+- Anti Fraud Specialist at Santander
 - Instructor of Machine Learning at Alura
 - Visual computing researcher at PROADI SUS HIAE (Hospital Israelita Albert Einstein)
 - Intern at Alura - Focused on Machine Learning 
